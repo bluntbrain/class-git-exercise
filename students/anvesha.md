@@ -1,0 +1,7 @@
+USER DETAILS{
+    NAME: ANVESHA CHAUHAN,
+    GITHUB-URL: https://github.com/anvesha007/class-git-exercise,
+    LEARNT: GITHUB BASICS,
+    FAV PROGRAMMING LANG: [CPP,JS],
+    FAV MOVIES: [3 IDIOTS,DHURANDHAR],
+}
