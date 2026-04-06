@@ -1,4 +1,4 @@
 sriman 
 ts
 js
-thumbad
+thumbad.
