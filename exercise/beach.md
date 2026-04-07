@@ -7,6 +7,7 @@ Here we need to add one word or a sentence also works in this file and create a 
 - dog
 - 2 dogs
 - pattaya beaches
-- bali beaches 
+- bali beaches
 - sequin shells
--Goa
+  -Goa
+- dolphine
